@@ -15,5 +15,4 @@ between David and one of his associates. 
 
 **Objective**
   
-Determine whose system was compromised, resulting in the attack and posting of the images. Then, complete a Digital Forensics Evidence report for MyFace to present 
-in court, create a summary of findings for the client, and create a recommendation for how MyFace can improve their cybersecurity lifecycle policies. 
+You are the owner of Digital Hound Dogs Investigations and have been contacted by MyFace to determine whose system was compromised, resulting in the attack and posting of the images. Then, complete a Digital Forensics Evidence report for MyFace to present in court, create a summary of findings for the client, and provide a recommendation on how MyFace can improve its cybersecurity lifecycle policies. 
