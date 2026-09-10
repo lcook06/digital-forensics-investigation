@@ -1,4 +1,4 @@
-**Case Summary**
+#Case Summary
 
 David Eng is a popular Tremble gamer with over 2 million followers. He’s employed by the popular video gaming behemoth, SoChi, and he’s gained celebrity cult status
 specifically because of his supposed wholesomeness. On his streams, he doesn’t curse or berate others. Instead, he’s adopted a “no jerks policy” and puts a positive 
@@ -13,7 +13,7 @@ David states that his personal computer was not hacked; it was only his MyFace a
 The reason he is suing is because he lost his job due to the pictures being leaked. In addition, the complaint includes excerpts of purported emails and pictures
 between David and one of his associates.  
 
-**Objective**
+#Objective
   
 Determine whose system was compromised, resulting in the attack and posting of the images. Then, complete a Digital Forensics Evidence report for MyFace to present 
 in court, create a summary of findings for the client, and create a recommendation for how MyFace can improve their cybersecurity lifecycle policies. 
